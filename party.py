@@ -4,7 +4,7 @@ print("Стоит ли идти тебе на вечеринку?")
 
 vodka = float(input("Есть ли водка?\n"))
 rain = float(input("Есть ли дождик?\n"))
-friend = float(input("Есть ли твой лучший друг?\n"))
+friend = float(input("Туда пойдет твоя подруга?\n"))
 
 def activation_function(x):
     if x >=0.5:
